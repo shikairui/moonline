@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Moonline
+url: "shikairui.github.io/moonline"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -11,14 +11,14 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Product marketing template for Jekyll.
-author:
-  name:
-  email:
+author:Raymond Shi
+  name:Moonline
+  email: shi0809044@loswego.k12.or.us
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Moonline
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - shikairui.github.io/moonline
 
 # -----
 # Build
