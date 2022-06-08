@@ -22,15 +22,15 @@
     new_window: true
 - links:
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://www.google.com/search?q=facebook+sucks&source=hp&ei=Jl6gYviRI9OC0PEP99en4AQ&iflsig=AJiK0e8AAAAAYqBsNmVsD1VGGrou8SS8LjzUDysMhrE5&ved=0ahUKEwj4vICluJ34AhVTATQIHffrCUwQ4dUDCAg&uact=5&oq=facebook+sucks&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCGAzIFCAAQhgM6EAguELEDEIMBEMcBENEDEEM6EQguEIAEELEDEIMBEMcBENEDOgsILhCABBDHARCjAjoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOg4ILhCxAxCDARDHARCjAjoKCAAQsQMQgwEQQzoICAAQsQMQgwE6BwgAELEDEEM6DgguEIAEELEDEMcBENEDOggIABCABBCxAzoOCC4QgAQQsQMQxwEQowI6BAgAEEM6CgguELEDENQCEEM6CAgAELEDEJECSgUIQBIBMVAAWL8PYPgPaAFwAHgAgAE-iAG1BZIBAjE0mAEAoAEB&sclient=gws-wiz
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/StopAAPIHate
     social_icon: Twitter
     new_window: true
   - name: YouTube
-    link: https://youtube.com/cloudcannon/
+    link: https://www.youtube.com/channel/UCVfYWI9Ihr6I_fm3najmArg
     social_icon: YouTube
     new_window: true
   - name: RSS
