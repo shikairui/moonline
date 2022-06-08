@@ -2,7 +2,7 @@
 # Site
 
 title: Moonline
-url: "shikairui.github.io/moonline"
+url: "https://shikairui.github.io/moonline"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -18,7 +18,7 @@ author: Raymond Shi
 social:
   name: Moonline
   links:
-    - shikairui.github.io/moonline
+    - https://shikairui.github.io/moonline
 
 # -----
 # Build
